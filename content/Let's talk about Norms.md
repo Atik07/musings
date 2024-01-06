@@ -59,4 +59,4 @@ By targeting intentions (which are only inside the actor's head) rather than act
 But this is due for another story ... of how we *cheat*.
 
 ---
-*Disclaimer:* A few key ideas presented here draw from the book 'The Elephant in the Brain' by Kevin Simler and Robin Hanson, various independent articles and research papers, while others stem from my own thoughts and insights.
+*Note:* A few key ideas presented here draw from the book 'The Elephant in the Brain' by Kevin Simler and Robin Hanson, various independent articles and research papers, while others stem from my own thoughts and insights.
