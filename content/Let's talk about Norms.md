@@ -59,4 +59,10 @@ By targeting intentions (which are only inside the actor's head) rather than act
 But this is due for another story ... of how we *cheat*.
 
 ---
+Since this is a static site, it would not be viable to make interactions possible.   
+Kindly use the following Instagram post to engage with the article.  
+[Forum: Let's talk about Norms](https://www.instagram.com/p/C1ysNNYLwt3/?igsh=bWc3bnplNW1rMzFw)  
+I'd love to hear any remarks, feedback or criticisms. Discussions are welcome, as well.
+
+---
 *Note:* A few key ideas presented here draw from the book 'The Elephant in the Brain' by Kevin Simler and Robin Hanson, various independent articles and researches, while others stem from my own thoughts and insights.
