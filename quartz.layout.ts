@@ -7,8 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/Atik07",
+      Twitter: "https://twitter.com/AtikNageshwar",
+      Instagram: "https://www.instagram.com/_duck.quacks_/",
+      // "Buy me a skirt!": ""
     },
   }),
 }
@@ -29,8 +31,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.MobileOnly(Component.Explorer()),
     Component.Backlinks(),
   ],
 }

@@ -1,5 +1,5 @@
 ---
-title: "Graph View"
+title: "Connect the dots..."
 tags:
   - component
 ---
