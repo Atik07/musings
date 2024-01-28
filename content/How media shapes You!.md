@@ -1,3 +1,8 @@
+---
+published on: 18-01-2024
+---
+
+
 What was that one book or movie that inspired you to become an astronaut, made you want to fall for someone or filled you with the excitement of wanting to become a superhero - slinging webs or launching yourself into the sky with those ion thrusters (repulsor as Tony likes to call it)?
 
 Media by definition is the channel by which information is conveyed. Any piece of paper inked with someone's thoughts or ideas, any well crafted theatrical play, a song describing some event, books, movies, TV shows, video games all comprise what's know as media. And believe it or not, it influences you in more ways than you'd like to admit.

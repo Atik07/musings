@@ -1,3 +1,6 @@
+---
+published on: 07-01-2024
+---
 
 Many of us have found ourselves in a situation like this: There's a gathering at your family friend's place. You refuse to go but have to. You don't pay much heed to dressing up and put on your hoodie over whatever you were already wearing. Or in the highly unlikely scenario, you are really excited to go to the event and you put your best dress on. In both of these settings your parents are likely to rebuke you for how you present yourself. 
 This reminds me of the time when I was dismissed from a class for wearing shorts.
