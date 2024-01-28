@@ -2,7 +2,7 @@
 title: Does Good UX Make Us Worse at Solving Problems?
 published on: 28-01-2024
 ---
-Are you good at solving problems?
+What makes you good at solving problems?
 
 UX or user experience refers to a user’s perceptions and responses that result from the use of a system, product or service. Today's world is run by Apps managing various aspects of our lives, ranging from food to travel, shopping to banking. A 'good user experience' here, refers to the comfort and ease of use that a solution provides a user to their problem. 
 
