@@ -161,6 +161,7 @@ a {
     }
 
     & .sidebar.right {
+      flex-direction: column;
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       & > * {
         @media all and (max-width: $fullPageWidth) {
